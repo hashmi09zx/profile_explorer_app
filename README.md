@@ -106,7 +106,6 @@ lib/
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here later)
 
 | Home Screen | Profile Detail Screen |
 |-------------|----------------------|
